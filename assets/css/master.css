@@ -59,3 +59,12 @@
   margin-top: 15px;
   background-color: #ABCFE8;
 }
+
+.block-three{
+  width: 90%;
+  height: 100px;
+  background-color: #8700FF;
+  margin-left: 5%;
+  margin-top: 1%;
+  margin-bottom: 1%;
+}
