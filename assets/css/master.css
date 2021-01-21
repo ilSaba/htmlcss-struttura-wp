@@ -6,8 +6,8 @@
 
 .block-one{
   width: 90%;
-  height: 70px;
-  background-color: green;
+  height: 100px;
+  background-color: #E579E6;
   margin-left: 5%;
   margin-top: 1%;
   margin-bottom: 1%;
@@ -16,7 +16,20 @@
 .block-two{
   width: 90%;
   height: 300px;
-  background-color: green;
+  background-color: #E1D77A;
   margin-left: 5%;
-  margin-bottom: 2%;
+  margin-bottom: 1%;
+}
+
+.main-block{
+  width: 90%;
+  height: 700px;
+  background-color: #0087FF;
+  margin-left: 5%;
+  margin-bottom: 1%;
+}
+
+.row-1{
+  height: 70px;
+  background-color: #ABCFE8;
 }
