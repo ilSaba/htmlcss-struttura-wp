@@ -26,10 +26,37 @@
   height: 700px;
   background-color: #0087FF;
   margin-left: 5%;
+  margin-right: 5%;
   margin-bottom: 1%;
+
 }
 
 .row-1{
   height: 70px;
   background-color: #ABCFE8;
+}
+
+.column-1{
+  float: left;
+  width: 15%;
+  height: 600px;
+  margin-top: 15px;
+  background-color: #ABCFE8;
+}
+
+.column-3{
+  float: right;
+  width: 15%;
+  height: 600px;
+  margin-top: 15px;
+  background-color: #ABCFE8;
+}
+
+.column-2{
+  width: 60%;
+  height: 600px;
+  margin-top: 15px;
+  margin: 50%;
+  background-color: #ABCFE8;
+
 }
